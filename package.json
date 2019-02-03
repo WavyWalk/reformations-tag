@@ -1,0 +1,24 @@
+{
+  "name": "reformations-tag",
+  "version": "1.0.0",
+  "repository": "WavyWalk/reformations-tag",
+  "description": "ease your forms",
+  "main": "dist/index.js",
+  "private": false,
+  "scripts": {
+    "build": "webpack",
+    "buildTsc": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "author": "wavywalk",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1",
+    "typescript": "^3.2.4",
+    "react": "^16.7.0",
+    "@types/react": "^16.8.1",
+    "react-dom": "^16.7.0",
+    "@types/react-dom": "^16.0.11"
+  }
+}

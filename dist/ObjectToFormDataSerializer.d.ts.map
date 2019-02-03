@@ -1,0 +1,1 @@
+{"version":3,"file":"ObjectToFormDataSerializer.d.ts","sourceRoot":"","sources":["../src/ObjectToFormDataSerializer.ts"],"names":[],"mappings":"AAAA,qBAAa,0BAA0B;IAEnC,MAAM,CAAC,SAAS,CAAC,MAAM,EAAE,GAAG,EAAE,IAAI,CAAC,EAAE,QAAQ,EAAE,SAAS,CAAC,EAAE,MAAM,GAAG,QAAQ;CAkB/E"}
